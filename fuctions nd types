@@ -1,0 +1,65 @@
+fuctions : a function is a block of code that does a specific task 
+syntax : def fuction_name():
+         #code
+
+ex :
+
+def greet():
+  print("hello")
+
+
+  fuctions with parameters :
+  ex: 
+ 
+  
+  def add (a,b):
+  print(a+b)
+  add(2,3)
+
+
+function with return :
+ex:
+
+def add (a,b):
+  return a+b
+  result = add(2,3)
+  print(result)
+
+
+
+  types of function:
+  2 types are there 
+
+
+  1.built in functions : these are the functions which are already provided by python
+  which are: 
+
+  # print() - it displays output
+  ex: 
+  print("hello")
+
+  # len() - this finds the length of variable 
+  ex:
+  name="bob"
+  print(len(name))
+
+  # type() - it will shows the datatype
+  ex:
+  x = 10
+  print (type(x))
+
+  # range() - it creates the sequence of numbers 
+  ex : 
+  for i in range (5):
+     print(i)
+
+
+2. user defined fumctions: these are the functions created by using def 
+
+ex: 
+
+def greet():
+  print("hello")
+  greet()
+  
+      
