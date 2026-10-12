@@ -1,0 +1,14 @@
+loops is used to repeat the same task again and again 
+
+1.while loop 
+ex: 
+insted of- 
+print("hello")
+print("helooe"
+print("hello")
+we can use:
+
+i=1
+while i<=3:
+  print("hello")
+  i=i+1
