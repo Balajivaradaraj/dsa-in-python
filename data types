@@ -1,0 +1,22 @@
+data types tells that "what kind of data is sored in variable" 
+
+  1.integer : whole numbers
+    ex: 
+  age=20
+
+
+  2.string : characteristics or texts
+    ex: 
+name="bob"
+
+  3.float : decimal numbers
+    ex: 
+ price=25.25
+
+   4.boolean : true or false
+     ex:
+if_student_ans=true 
+
+  5.none : it represents empty or no value 
+    ex:
+x=none
