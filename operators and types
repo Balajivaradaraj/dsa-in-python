@@ -1,0 +1,54 @@
+operators: operator is a symbol that used to perform operations on values or on a variables 
+ex:
+a=10
+b=20
+print(a+b)
+here "+" ia an operator
+
+
+types of operators:
+
+1.arithmetic operators: used for mathematical operations
+
+which are: 
++ : add
+- : sub
+* : mul
+/ : div
+% : modulus 
+** : power 
+
+
+2.relational operators : these are used to compare values 
+which are:
+==
+!=
+>
+<
+>=
+<=
+ ex: 
+a=10
+b=15
+print(a>b)
+
+
+3.logical operator : 
+and - both  conditions are must be true
+or - any one condition can true
+not - opposite result
+
+ex: 
+age = 20
+print(age>18 and <25)
+
+
+4.assignment operators: used to assign values 
+
+operator     ex
+=           a=10
++=           a+=5
+-=           a-=5
+*=           a*=5
+/=           a/=5
+
