@@ -1,0 +1,14 @@
+conditional statements :
+ 1.if : first condition
+ 2.elif : additional condition
+ 3:else : it runs when all conditions are wrong or false
+
+
+ex: 
+age= int(input ("enter age: "))
+if age>=18:
+  print("you can vote ")
+elif age>=13:
+  print("you cant cos u still teenager")
+else:
+  print("you are still child")
