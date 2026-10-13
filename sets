@@ -1,0 +1,46 @@
+SET: sets is the collection of unique items which automatically removes duplicates or the repeated items 
+ex:
+set={1,2,2,3,4}
+print(set)
+
+SET METHODS : 
+SUPPOSE 
+nums= {1,2,3}
+
+1.ADD() : ITS ADDS THE NEW ELEMENTS 
+EX: 
+nums= {1,2,3}
+nums.add(4)
+print(nums)
+
+
+2.REMOVE(): it removes an element
+ex: 
+nums= {1,2,3}
+nums.remove(3)
+print(nums)
+
+
+3.CLEAR(): it deletes all element from the set
+ex: 
+nums= {1,2,3}
+nums.clear()
+print(nums)
+
+4.POP(): it removes the random element from the set 
+ex: 
+nums= {1,2,3}
+nums.pop()
+print(nums)
+
+5:UNION: it combines the 2 sets
+ex: a= {1,2,3}
+b={6,4,3,4}
+print(a.union(b)
+
+
+6.INTERSECTION:it finds the common value
+ex: 
+a= {1,2,3}
+b={6,4,3,4}
+print(a.intersection(b))
