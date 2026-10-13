@@ -1,0 +1,16 @@
+TUPLES: tuples are the data types multiple value in a single variable but cannot change after its value after creating
+
+TUPLE METHODS :
+SUPPOSE 
+
+TUP(2,1,3,1)
+
+1.INDEX() : it finds the position (index) of the element
+ex: 
+tup=(2,1,3,1)
+print(tup.index(1))
+
+2.COUNT() : it counts how many times a element appears 
+ex: 
+tup=(2,1,3,1)
+print(tup.count(1))
