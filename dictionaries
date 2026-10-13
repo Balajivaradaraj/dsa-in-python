@@ -1,0 +1,29 @@
+DICTIONARIES: dictionary is used to data in key:value pair
+  ex: 
+student={"name":"bob"},{"cgpa":7}
+print(student)
+
+  dDICTIONARIES METHODS : 
+suppose 
+
+  student={"name":"bob"},{"age":20},{"city":"blr"}
+
+1.KEYS(): keys are returns all keys values(lest side values)
+
+2.VALUES() : values are all right side items 
+
+3.ITEM() : it returns all key values pairs
+  ex: 
+student={"name":"bob"},{"age":20},{"city":"blr"}
+print(student)
+
+4.GET(KEY): IT RETURNS THE VALUE OD THE KEY
+  EX: 
+student = {"name": "bob", "age": 20, "city": "blr"}
+print(student.get("name"))
+
+5.UPDATE(): used to change the values 
+  ex: 
+student = {"name": "bob", "age": 20, "city": "blr"}
+student.update({"city":"mysore"})
+print(student)
